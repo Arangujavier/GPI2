@@ -1,0 +1,6 @@
+projectKey=GPI2
+serverUrl=http://localhost:10000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:10000/dashboard?id=GPI2
+ceTaskId=AYi0IO9ucu3UKVLG74Wg
+ceTaskUrl=http://localhost:10000/api/ce/task?id=AYi0IO9ucu3UKVLG74Wg

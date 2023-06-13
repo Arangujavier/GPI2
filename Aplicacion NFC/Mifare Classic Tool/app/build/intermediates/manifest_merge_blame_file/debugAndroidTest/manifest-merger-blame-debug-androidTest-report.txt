@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.syss.MifareClassicTool.test" >
+4
+5    <uses-sdk
+5-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:5:15-41
+7        android:targetSdkVersion="31" />
+7-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:11:5-15:75
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:13:22-53
+13        android:label="Tests for de.syss.MifareClassicTool"
+13-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:15:22-73
+14        android:targetPackage="de.syss.MifareClassicTool" />
+14-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:12:22-71
+15
+16    <application android:debuggable="true" >
+16-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:8:9-60
+17-->/home/alumno/Escritorio/GPI2/Mifare Classic Tool/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12679525002587476977.xml:8:23-57
+18    </application>
+19
+20</manifest>
